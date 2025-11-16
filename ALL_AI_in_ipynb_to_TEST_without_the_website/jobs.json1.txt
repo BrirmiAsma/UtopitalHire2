@@ -1,0 +1,359 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "TuniTech",
+    "location": "Tunis",
+    "skills": ["JavaScript", "React", "HTML", "CSS"],
+    "description": "Build responsive web applications using React and modern JS frameworks."
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Casabyte",
+    "location": "Casablanca",
+    "skills": ["Node.js", "Express", "MongoDB", "API Development"],
+    "description": "Design and maintain backend services and APIs for scalable systems."
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Insightify",
+    "location": "Cairo",
+    "skills": ["Python", "Excel", "SQL", "Data Visualization"],
+    "description": "Analyze business data to extract insights and create dashboards."
+  },
+  {
+    "title": "AI Engineer",
+    "company": "DeepMinds Africa",
+    "location": "Lagos",
+    "skills": ["Machine Learning", "Python", "TensorFlow", "Pandas"],
+    "description": "Develop and train AI models for predictive analytics."
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "KairoSoft",
+    "location": "Cairo",
+    "skills": ["React", "Node.js", "MongoDB", "Express"],
+    "description": "Develop full stack web apps integrating front and back ends."
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "company": "SecureTun",
+    "location": "Tunis",
+    "skills": ["Network Security", "Firewalls", "Penetration Testing"],
+    "description": "Monitor and improve system security for corporate clients."
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Nairobi CloudLabs",
+    "location": "Nairobi",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "AWS"],
+    "description": "Automate infrastructure and deployment pipelines for SaaS systems."
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "PixelBloom",
+    "location": "Casablanca",
+    "skills": ["Figma", "Adobe XD", "Wireframing", "Prototyping"],
+    "description": "Design intuitive and aesthetic interfaces for mobile and web apps."
+  },
+  {
+    "title": "Mobile Developer",
+    "company": "AppZilla",
+    "location": "Lagos",
+    "skills": ["Flutter", "Dart", "Firebase", "REST APIs"],
+    "description": "Develop cross-platform mobile apps for Android and iOS."
+  },
+  {
+    "title": "Cloud Engineer",
+    "company": "SkyNet Africa",
+    "location": "Nairobi",
+    "skills": ["AWS", "Azure", "Terraform", "Linux"],
+    "description": "Deploy and manage scalable applications in cloud environments."
+  },
+  {
+    "title": "AI Research Assistant",
+    "company": "SmartLab Tunisia",
+    "location": "Sfax",
+    "skills": ["Python", "Deep Learning", "PyTorch", "Data Analysis"],
+    "description": "Assist in AI model training and data annotation tasks."
+  },
+  {
+    "title": "Network Engineer",
+    "company": "Linkify",
+    "location": "Accra",
+    "skills": ["Networking", "Cisco", "Routing", "Switching"],
+    "description": "Install and maintain network infrastructure for enterprise clients."
+  },
+  {
+    "title": "Frontend Intern",
+    "company": "CodeNest",
+    "location": "Tunis",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "description": "Assist in developing web components and testing UI features."
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataVision",
+    "location": "Casablanca",
+    "skills": ["Machine Learning", "Python", "Pandas", "Statistics"],
+    "description": "Create predictive models and conduct data analysis."
+  },
+  {
+    "title": "QA Tester",
+    "company": "TechBridge",
+    "location": "Cairo",
+    "skills": ["Selenium", "Manual Testing", "Automation"],
+    "description": "Perform testing and ensure the quality of software releases."
+  },
+  {
+    "title": "Product Manager",
+    "company": "NeoSoft",
+    "location": "Tunis",
+    "skills": ["Agile", "Scrum", "Project Management", "Communication"],
+    "description": "Coordinate cross-functional teams to deliver successful tech products."
+  },
+  {
+    "title": "IT Support Specialist",
+    "company": "HelpDesk Africa",
+    "location": "Nairobi",
+    "skills": ["Troubleshooting", "Networking", "Hardware Support"],
+    "description": "Provide technical support and resolve user issues efficiently."
+  },
+  {
+    "title": "Software Engineer",
+    "company": "CairoTech",
+    "location": "Cairo",
+    "skills": ["C++", "Python", "Algorithms", "Databases"],
+    "description": "Develop core components for large-scale software systems."
+  },
+  {
+    "title": "Business Analyst",
+    "company": "BizGen",
+    "location": "Lagos",
+    "skills": ["Excel", "SQL", "Data Visualization", "Power BI"],
+    "description": "Bridge business requirements with technical solutions."
+  },
+  {
+    "title": "Backend Intern",
+    "company": "CodeAfrica",
+    "location": "Tunis",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "description": "Assist backend team in developing APIs and database queries."
+  },
+  {
+    "title": "Cloud Security Engineer",
+    "company": "CloudFort",
+    "location": "Casablanca",
+    "skills": ["AWS", "Security", "Linux", "Python"],
+    "description": "Secure cloud infrastructure and ensure compliance with standards."
+  },
+  {
+    "title": "AI Chatbot Developer",
+    "company": "Botify",
+    "location": "Tunis",
+    "skills": ["NLP", "Python", "Dialogflow", "TensorFlow"],
+    "description": "Develop AI-driven chatbots for customer service automation."
+  },
+  {
+    "title": "Game Developer",
+    "company": "PlayNation",
+    "location": "Cairo",
+    "skills": ["Unity", "C#", "3D Modeling", "Game Design"],
+    "description": "Build interactive gaming experiences for multiple platforms."
+  },
+  {
+    "title": "Cyber Threat Analyst",
+    "company": "CyberX",
+    "location": "Nairobi",
+    "skills": ["Security Analysis", "Incident Response", "SIEM"],
+    "description": "Identify and respond to cyber threats in real time."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "SmartAI",
+    "location": "Tunis",
+    "skills": ["Python", "Scikit-learn", "Deep Learning", "Data Processing"],
+    "description": "Implement ML algorithms for business intelligence."
+  },
+  {
+    "title": "Web Developer",
+    "company": "WebWorks",
+    "location": "Casablanca",
+    "skills": ["HTML", "CSS", "JavaScript", "PHP"],
+    "description": "Design and maintain client websites with dynamic content."
+  },
+  {
+    "title": "IoT Developer",
+    "company": "SenseHub",
+    "location": "Lagos",
+    "skills": ["Arduino", "C++", "IoT", "Sensors"],
+    "description": "Create connected device systems for smart city projects."
+  },
+  {
+    "title": "AI Intern",
+    "company": "Brainify",
+    "location": "Tunis",
+    "skills": ["Python", "Pandas", "Machine Learning"],
+    "description": "Assist data science team with preprocessing and model evaluation."
+  },
+  {
+    "title": "Cloud Architect",
+    "company": "Nimbus Labs",
+    "location": "Cairo",
+    "skills": ["AWS", "Azure", "Architecture", "DevOps"],
+    "description": "Design cloud solutions and infrastructure architecture."
+  },
+  {
+    "title": "Mobile App Tester",
+    "company": "AppCore",
+    "location": "Nairobi",
+    "skills": ["Testing", "QA", "Mobile Apps"],
+    "description": "Test Android and iOS applications for usability and bugs."
+  },
+  {
+    "title": "UI Designer",
+    "company": "Vision Studio",
+    "location": "Casablanca",
+    "skills": ["Figma", "UI Design", "Prototyping"],
+    "description": "Design modern user interfaces for digital products."
+  },
+  {
+    "title": "AI Data Annotator",
+    "company": "DataTag",
+    "location": "Tunis",
+    "skills": ["Annotation", "Image Labeling", "Python"],
+    "description": "Label datasets to train and validate machine learning models."
+  },
+  {
+    "title": "Blockchain Developer",
+    "company": "ChainWave",
+    "location": "Lagos",
+    "skills": ["Solidity", "Ethereum", "Smart Contracts"],
+    "description": "Develop decentralized applications and blockchain integrations."
+  },
+  {
+    "title": "IT Project Coordinator",
+    "company": "TechFlow",
+    "location": "Cairo",
+    "skills": ["Agile", "Scrum", "Documentation"],
+    "description": "Coordinate IT projects and ensure on-time delivery."
+  },
+  {
+    "title": "Penetration Tester",
+    "company": "HackZone",
+    "location": "Tunis",
+    "skills": ["Penetration Testing", "Kali Linux", "Network Security"],
+    "description": "Perform ethical hacking assessments and security tests."
+  },
+  {
+    "title": "AI Product Designer",
+    "company": "CognitiveLab",
+    "location": "Casablanca",
+    "skills": ["UX Design", "AI Concepts", "Figma"],
+    "description": "Design AI-powered product experiences and interfaces."
+  },
+  {
+    "title": "Software Tester",
+    "company": "SoftGuard",
+    "location": "Nairobi",
+    "skills": ["Selenium", "Test Cases", "Automation"],
+    "description": "Develop automated tests and ensure product reliability."
+  },
+  {
+    "title": "Full Stack Intern",
+    "company": "InnovIT",
+    "location": "Tunis",
+    "skills": ["JavaScript", "Node.js", "React"],
+    "description": "Assist full stack team with API integration and UI improvements."
+  },
+  {
+    "title": "Game Designer",
+    "company": "DreamPlay",
+    "location": "Lagos",
+    "skills": ["Unity", "Blender", "Storytelling"],
+    "description": "Create engaging game mechanics and player experiences."
+  },
+  {
+    "title": "Network Administrator",
+    "company": "NetTun",
+    "location": "Tunis",
+    "skills": ["Networking", "Cisco", "VPN"],
+    "description": "Manage and configure internal network systems."
+  },
+  {
+    "title": "AI Software Developer",
+    "company": "AIMinds",
+    "location": "Casablanca",
+    "skills": ["Python", "PyTorch", "NLP"],
+    "description": "Develop AI applications for language and vision systems."
+  },
+  {
+    "title": "Data Engineer",
+    "company": "DataPulse",
+    "location": "Cairo",
+    "skills": ["ETL", "SQL", "Python", "Big Data"],
+    "description": "Build data pipelines and manage data architecture."
+  },
+  {
+    "title": "Junior Web Developer",
+    "company": "WebEase",
+    "location": "Nairobi",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "description": "Support web projects and assist in front-end development."
+  },
+  {
+    "title": "Technical Writer",
+    "company": "DocuTech",
+    "location": "Tunis",
+    "skills": ["Technical Writing", "Documentation", "Markdown"],
+    "description": "Write and maintain documentation for APIs and software tools."
+  },
+  {
+    "title": "Software Architect",
+    "company": "BuildSoft",
+    "location": "Casablanca",
+    "skills": ["Architecture", "Design Patterns", "Microservices"],
+    "description": "Design scalable software systems and mentor developers."
+  },
+  {
+    "title": "RPA Developer",
+    "company": "AutoFlow",
+    "location": "Cairo",
+    "skills": ["Automation", "UiPath", "Python"],
+    "description": "Develop robotic process automation workflows."
+  },
+  {
+    "title": "AI Solutions Architect",
+    "company": "DeepConnect",
+    "location": "Tunis",
+    "skills": ["AI Architecture", "Cloud", "Machine Learning"],
+    "description": "Architect scalable AI systems for enterprise clients."
+  },
+  {
+    "title": "Tech Support Engineer",
+    "company": "Helpify",
+    "location": "Casablanca",
+    "skills": ["Customer Support", "Troubleshooting", "Linux"],
+    "description": "Provide tech assistance to clients and solve system issues."
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "MegaSoft",
+    "location": "Cairo",
+    "skills": ["Django", "Python", "Databases"],
+    "description": "Develop backend systems and integrate APIs with databases."
+  },
+  {
+    "title": "Computer Vision Engineer",
+    "company": "VisionAI",
+    "location": "Tunis",
+    "skills": ["OpenCV", "Python", "Deep Learning"],
+    "description": "Develop AI models for image and video analysis."
+  },
+  {
+    "title": "AI Consultant",
+    "company": "ThinkAI",
+    "location": "Casablanca",
+    "skills": ["AI Strategy", "Python", "Data Science"],
+    "description": "Advise companies on integrating AI into business processes."
+  }
+]

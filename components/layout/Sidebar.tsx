@@ -10,8 +10,8 @@ const modules = [
   { id: 'profile', title: 'Profile', icon: User, href: '/dashboard/profile', color: 'from-[#3182CE] to-[#805AD5]' },
   { id: 'interview', title: 'Interview', icon: MessageSquare, href: '/dashboard/interview', color: 'from-[#D4A574] to-[#ED8936]' },
   { id: 'job-matching', title: 'Job Matching', icon: Briefcase, href: '/dashboard/job-matching', color: 'from-[#2C7A7B] to-[#3182CE]' },
-  { id: 'enhancement', title: 'Enhancement', icon: Sparkles, href: '/dashboard/enhancement', color: 'from-[#38A169] to-[#48BB78]' },
-  { id: 'cv-analyzer', title: 'CV Generator', icon: FileText, href: '/dashboard/cv-analyzer', color: 'from-[#3182CE] to-[#805AD5]' },
+  { id: 'enhancement', title: 'CV Generator', icon: Sparkles, href: '/dashboard/enhancement', color: 'from-[#38A169] to-[#48BB78]' },
+  { id: 'cv-analyzer', title: 'Enhancement', icon: FileText, href: '/dashboard/cv-analyzer', color: 'from-[#3182CE] to-[#805AD5]' },
   { id: 'behavior', title: 'Behavior', icon: TrendingUp, href: '/dashboard/behavior', color: 'from-[#805AD5] to-[#9F7AEA]' },
 ];
 
